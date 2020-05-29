@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/React-Counter-State-hooks/static/js/main.be44a0d1.chunk.js",
+    "main.js.map": "/React-Counter-State-hooks/static/js/main.be44a0d1.chunk.js.map",
+    "runtime-main.js": "/React-Counter-State-hooks/static/js/runtime-main.e3139965.js",
+    "runtime-main.js.map": "/React-Counter-State-hooks/static/js/runtime-main.e3139965.js.map",
+    "static/js/2.fcd06c71.chunk.js": "/React-Counter-State-hooks/static/js/2.fcd06c71.chunk.js",
+    "static/js/2.fcd06c71.chunk.js.map": "/React-Counter-State-hooks/static/js/2.fcd06c71.chunk.js.map",
+    "index.html": "/React-Counter-State-hooks/index.html",
+    "precache-manifest.04e9774654ab4d17d95dbf40c0f4944d.js": "/React-Counter-State-hooks/precache-manifest.04e9774654ab4d17d95dbf40c0f4944d.js",
+    "service-worker.js": "/React-Counter-State-hooks/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3139965.js",
+    "static/js/2.fcd06c71.chunk.js",
+    "static/js/main.be44a0d1.chunk.js"
+  ]
+}
