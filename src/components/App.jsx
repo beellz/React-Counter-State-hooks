@@ -18,7 +18,7 @@ function App() {
 
   return (
         <div className="container">
-            <h2> COUNTER </h2>
+            <h2> COUNTER All </h2>
             <h1>{count}</h1>
             <button onClick={increase}>+</button>
             <button onClick={decrease}>-</button>
